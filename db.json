@@ -14,6 +14,7 @@
       "title": "from net",
       "category": "Entertainment",
       "amount": "100",
+       "user":"expenses",
       "date": "2025-05-17T18:30:00.000Z"
     },
     {
@@ -21,6 +22,7 @@
       "title": "after analatyes",
       "category": "Education",
       "amount": "100",
+       "user":"expenses",
       "date": "2025-05-19T18:30:00.000Z"
     },
     {
@@ -28,6 +30,22 @@
       "title": "exps add",
       "category": "Food",
       "amount": "5678",
+       "user":"expenses",
+      "date": "2025-05-21"
+    },
+    {
+      "id": 1747713724440,
+      "title": "exps add 2",
+      "category": "Food",
+      "amount": "5678",
+       "user":"expenses",
+      "date": "2025-05-21"
+    },{
+      "id": 1747713724440,
+      "title": "exps add 3 ",
+      "category": "Food",
+      "amount": "5678",
+       "user":"expenses",
       "date": "2025-05-21"
     }
   ],
@@ -37,6 +55,7 @@
       "title": "rishi",
       "category": "Food",
       "amount": 50,
+      "user":"rishi",
       "date": "2023-10-01"
     },
     {
@@ -44,6 +63,7 @@
       "title": "water",
       "category": "Food",
       "amount": 50,
+      "user":"rishi",
       "date": "2023-10-01"
     },
     {
@@ -51,6 +71,7 @@
       "title": "rishi add",
       "category": "Food",
       "amount": "567",
+      "user":"rishi",
       "date": "2025-05-28"
     }
   ],
@@ -60,6 +81,7 @@
       "title": "ankitha",
       "category": "Food",
       "amount": 50,
+      "user":"ankitha",
       "date": "2023-10-01"
     },
     {
@@ -67,6 +89,7 @@
       "title": "water",
       "category": "Food",
       "amount": 50,
+       "user":"ankitha",
       "date": "2023-10-01"
     },
     {
@@ -74,6 +97,7 @@
       "title": "ankita add",
       "category": "Food",
       "amount": "5678",
+       "user":"ankitha",
       "date": "2025-05-21"
     }
   ]
